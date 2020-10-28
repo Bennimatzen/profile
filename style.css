@@ -1,0 +1,45 @@
+h1, h2, h5 {
+  background-color: rgb(234, 244, 237);
+  font-size: 20px
+  width: 100px;
+  font-family: 'Hyperpix'
+}
+body {
+  background: rgb(234, 244, 237);
+  font-size: 17px;
+  font-weight: lighter;
+  color: black;
+}
+
+.card-white {
+  text-align: center;
+  padding: 40px;
+  box-shadow: 0px 10px 30px rgba(0,0,0,0.1);
+  border-radius: 4px;
+  margin: 20px 0px;
+
+}
+
+.container {
+  width: 1100px;
+  margin: 40px auto;
+
+}
+.btn-blue {
+    background-color: rgb(234, 244, 237);
+    color: rgb(214, 206, 190);
+    padding: 15px 20px;
+    border-radius: 4px;
+    border: 1px solid ;
+  }
+  /*.btn-blue:hover {
+    background-color: black;
+    color: white;
+  }*/
+  .first-button {
+    padding: 1px 20px;
+
+  }
+  .list-items {
+    list-style: none;
+  }
